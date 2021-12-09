@@ -1,4 +1,4 @@
-# PEC3: Visionando el futuro con las gafas de Manovich 
+# PEC3: Visionando el futuro con las gafas de Manovich OK
 
 ### Recurso de aprendizaje de Cultura Digital 
 Autor: Angela Vera Ponce
