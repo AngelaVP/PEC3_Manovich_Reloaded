@@ -41,6 +41,11 @@ Se aprecian varias estrategias de hibridación:
  - Se utiliza un tipo de medios como interfaz para otro tipo, ya que se utiliza la visualización en 3d para ver en otra dimensión una imagen inicialmente fija. 
  - Representan el mundo de forma novedosa, combinando y reconfigurando los medios que ya conocemos, como son las imágenes y la visualización del entorno a través de la cámara.
  - Crea una nueva forma de navegar e interaccionar con formatos de medios ya existentes, pues a través de la cámara y la pantalla del móvil, podemos seleccionar "virtualmente" un objeto que físicamente no existe, aunque se esté visualizando "en vivo".
+
+Se puede ver un catálogo antiguo con la misma tecnología hasta el minuto 2:27 de el vídeo siguiente:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wm-__k_fEIs?start=181" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
  
  En resumen, es el catálogo de jueguetes de carrefour engloba la esencia de la hibridación si se visualiza a través de "las gafas de Manovich".
  
