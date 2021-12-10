@@ -1,7 +1,7 @@
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
 ## Recurso de aprendizaje Cultura digital
-Autora: Angela Vera Ponce
+Autora: Angela Vera Ponce - 
 
 Fecha: 08/12/2021
 
@@ -24,6 +24,7 @@ Se profundiza en cada una de los casos seleccionados.
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSWi657vcqeHJ7wLxmuxhFmKImObkzoLwDaMu9upXVRYZa_IDwAlbK2TsNgKV59QYt6kY&usqp=CAU" alt="Catálogo de juguetes" width="500">
 
 [Catálogo juguetes](https://folleto.carrefour.es/Carrefour-Campanar----Valencia/7934/Juguetes)
+<i class="fa fa-external-link" aria-hidden="true"></i>
 
 **El catálogo de juguetes de Carrefour** se puede visualizar de dos formas diferentes. Por un lado está el folleto físico, plano, con sus imágenes y códigos QR. Con uno de estos códigos te lleva a la app para descargar en un Smartphone. Una vez descargada, posibilita al usuario visualizar los diferentes juguetes de las distintas páginas, a través de la pantalla del móvil, en Realidad aumentada enfocando el mismo folleto que visualizamos. Existen más catálogos de juguetes que utilizan esta tecnología, pero se ha seleccionado el de Carrefour porque en 2021 es el que más elementos en Realidad Aumentada ha programado.
 
