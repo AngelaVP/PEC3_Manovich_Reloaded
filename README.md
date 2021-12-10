@@ -48,7 +48,7 @@ Se puede ver un catálogo antiguo con la misma tecnología hasta el minuto 2:27 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wm-__k_fEIs?start=181" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  
- En resumen, es el catálogo de jueguetes de carrefour engloba la esencia de la hibridación si se visualiza a través de "las gafas de Manovich", ya que 
+ En resumen, es el catálogo de jueguetes de carrefour engloba la esencia de la hibridación si se visualiza a través de "las gafas de Manovich".
  
 
 ## Re-descubriendo la hibridacion: Caso 2 - VelazquezTech
@@ -57,15 +57,34 @@ Se puede ver un catálogo antiguo con la misma tecnología hasta el minuto 2:27 
 
 [Museo Velázquez Tech](https://www.velazqueztech.com/)
 
-Lorem ipsum
+El museo Velázquez Tech ha sido seleccionado por ser un claro e impactante ejemplo de hibridación. Se puede observar cómo se han unificado el arte clásico del del famoso pintor con elementos visuales interactivos y música.
+Se ha utilizando como reclamo principal una versión actualizada de sus famosas Meninas, pero proyectadas con vídeo mapping y acompañadas de música barroca y ritmos contemporáneos. Permite acceder al lienzo de las Meninas en 4 dimensiones y en salas con hologramas para estudiar las distintas reinterpretaciones de la obra de Velázquez, así como disfrutar de instalaciones con una selección de las Meninas más representativas de la exhibición urbana MENINAS MADRID GALLERY.
+
+Aunque se ha seleccionado el museo VelazquezTech como un caso de hibridación, en realidad se podría considerar cada una de las salas expuestas casos de hibridación particulares.
+
+Una Menina en forma de escultura gigante en la que se proyecta una imagen que se puede "colorear" desde una tablet contectada, podría considerarse una técnica en la que se crea una nueva forma de navegar e interaccionar con formatos de medios ya existentes.
+
+Entrando en el mismo cuadro de las Meninas en el que podemos posicionarnos al lado de las mismas, se representa el mundo de forma novedosa, combinando y reconfigurando los medios que ya conocemos.
+
+Una sala en la que nos encontramos reinterpretaciones de la obra mediante hologramas, nos permite con esa nueva dimensión reinterpretar un medio ya existente como es la imagen en movimiento.
+
+En cada una de las salas, se aprecia una nueva forma de navegar e interaccionar con formatos de medios ya existentes.
+
+Ciertamente si Manovich escribiera de nuevo su libro a dia de hoy, podría utilizar este museo a modo de inspriración.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IImtLyrOeWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Conclusión
+
+Nos hemos puesto las gafas de Manovich, y apreciamos para cada uno de los ejemplos como "El resultado de la hibridación no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva «especie»: un nuevo tipo de estética visual que no existía antes." (Manovich, 2013)
+
 
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 * https://www.it-swarm-es.com/es/html/cambiar-el-tamano-de-la-imagen-en-la-wiki-de-github-usando-markdown/1046991320/
-* Youtube.com
+* https://www.youtube.com/watch?v=IImtLyrOeWs
+* 
 ----
 
 Imágenes: 
