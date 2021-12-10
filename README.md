@@ -4,8 +4,6 @@
 Autora: Angela Vera Ponce
 Fecha: 08/12/2021
 
-![Visionando el futuro con las gafas de Manovich](https://cdn.pixabay.com/photo/2019/11/20/04/21/sunglasses-4639073_960_720.jpg)
-
 <img src="https://cdn.pixabay.com/photo/2019/11/20/04/21/sunglasses-4639073_960_720.jpg" alt="Visionando el futuro con las gafas de Manovich" width="500">
 
 ## Planteamiento
