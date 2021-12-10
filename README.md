@@ -1,9 +1,7 @@
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
 ## Recurso de aprendizaje Cultura digital
-Autora: Angela Vera Ponce - 
-
-Fecha: 08/12/2021
+Autora: Angela Vera Ponce - Fecha: 08/12/2021
 
 <img src="https://cdn.pixabay.com/photo/2019/11/20/04/21/sunglasses-4639073_960_720.jpg" alt="Visionando el futuro con las gafas de Manovich" width="500">
 
@@ -82,9 +80,9 @@ Nos hemos puesto las gafas de Manovich, y apreciamos para cada uno de los ejempl
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-* https://www.it-swarm-es.com/es/html/cambiar-el-tamano-de-la-imagen-en-la-wiki-de-github-usando-markdown/1046991320/
-* https://www.youtube.com/watch?v=IImtLyrOeWs
-* 
+* IT-Swarm (On-line) https://www.it-swarm-es.com/es/html/cambiar-el-tamano-de-la-imagen-en-la-wiki-de-github-usando-markdown/1046991320/
+* VELÁZQUEZ TECH MUSEUM EN MADRID, UNA EXPERIENCIA INMERSIVA, YouTube (On-line) https://www.youtube.com/watch?v=IImtLyrOeWs
+* VELÁZQUEZ TECH MUSEUM, https://www.velazqueztech.com/?gclid=CjwKCAiAksyNBhAPEiwAlDBeLPcpXo4KyImOVdRy-QVRaVzAa9fwDfhPsmjXV7W1IO0gG8_aVzgo4xoCL8UQAvD_BwE
 ----
 
 Imágenes: 
