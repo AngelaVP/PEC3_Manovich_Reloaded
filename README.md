@@ -3,7 +3,7 @@
 ## Recurso de aprendizaje Cultura digital
 Autora: Angela Vera Ponce - Fecha: 08/12/2021
 
-<img src="https://cdn.pixabay.com/photo/2019/11/20/04/21/sunglasses-4639073_960_720.jpg" alt="Visionando el futuro con las gafas de Manovich" width="500">
+<img src="https://cdn.pixabay.com/photo/2019/11/20/04/21/sunglasses-4639073_960_720.jpg" alt="Visionando el futuro con las gafas de Manovich" width="600">
 
 ## Planteamiento
 
@@ -19,7 +19,7 @@ Se profundiza en cada una de los casos seleccionados.
 
 ## Re-descubriendo la hibridación: Caso 1 - Catálogo de juguetes Carrefour
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSWi657vcqeHJ7wLxmuxhFmKImObkzoLwDaMu9upXVRYZa_IDwAlbK2TsNgKV59QYt6kY&usqp=CAU" alt="Catálogo de juguetes" width="500">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSWi657vcqeHJ7wLxmuxhFmKImObkzoLwDaMu9upXVRYZa_IDwAlbK2TsNgKV59QYt6kY&usqp=CAU" alt="Catálogo de juguetes" width="600">
 
 [Catálogo juguetes](https://folleto.carrefour.es/Carrefour-Campanar----Valencia/7934/Juguetes)
 <i class="fa fa-external-link" aria-hidden="true"></i>
@@ -51,7 +51,7 @@ En resumen, es el catálogo de jueguetes de carrefour engloba la esencia de la h
 
 ## Re-descubriendo la hibridacion: Caso 2 - VelazquezTech
 
-<img src="https://www.esmadrid.com/sites/default/files/recursosturisticos/infoturistica/velazquez_tech_museum.jpg" alt="VelazquezTech" width="500">
+<img src="https://www.esmadrid.com/sites/default/files/recursosturisticos/infoturistica/velazquez_tech_museum.jpg" alt="VelazquezTech" width="600">
 
 [Museo Velázquez Tech](https://www.velazqueztech.com/)
 
