@@ -71,7 +71,6 @@ Claramente no estamos tratando un caso de multimedia, si no que en cada una  de 
 > "En la multimedia los elementos conviven, pero cada uno de ellos necesita abrir su propio recurso para ser reproducido: sea audio, vídeo, etc… En la hibridación, en cambio, se da una fusión entre los elementos que comparten las técnicas de software y las interfícies generando una experiencia nueva y coherente, que es diferente a la experimentación de los elementos por separado."  (Adel)
 
 Ciertamente si Manovich escribiera de nuevo su libro a día de hoy, podría utilizar este museo a modo de inspiración.
-Ciertamente si Manovich escribiera de nuevo su libro a dia de hoy, podría utilizar este museo a modo de inspriración.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IImtLyrOeWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
