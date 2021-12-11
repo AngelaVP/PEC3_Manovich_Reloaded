@@ -7,7 +7,7 @@ Autora: Angela Vera Ponce - Fecha: 08/12/2021
 
 ## Planteamiento
 
-En esta tercera práctica de la asignatura Cultura Digital, lo que se busca son ejemplos actuales de casos de hibridación y su análisis bajo el "las gafas de Manovich". 
+En esta tercera práctica de la asignatura Cultura Digital, lo que se busca son ejemplos actuales de casos de hibridación y su análisis bajo "las gafas de Manovich". 
 Se trata de investigar y analizar 2 casos actuales de hibridación. Se seleccionan:
 - El catálogo de juguetes de Carrefour con su vista en Realidad Aumentada
 - El "museo" Velazquez Tech.
