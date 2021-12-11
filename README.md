@@ -66,8 +66,11 @@ Entrando en el mismo cuadro de las Meninas en el que podemos posicionarnos al la
 
 Una sala en la que nos encontramos reinterpretaciones de la obra mediante hologramas, nos permite con esa nueva dimensión reinterpretar un medio ya existente como es la imagen en movimiento.
 
-En cada una de las salas, se aprecia una nueva forma de navegar e interaccionar con formatos de medios ya existentes.
+Claramente no estamos tratando un caso de multimedia, si no que en cada una  de las salas, se aprecia una nueva forma de navegar e interaccionar con formatos de medios ya existentes.
 
+> "En la multimedia los elementos conviven, pero cada uno de ellos necesita abrir su propio recurso para ser reproducido: sea audio, vídeo, etc… En la hibridación, en cambio, se da una fusión entre los elementos que comparten las técnicas de software y las interfícies generando una experiencia nueva y coherente, que es diferente a la experimentación de los elementos por separado."  (Adel)
+
+Ciertamente si Manovich escribiera de nuevo su libro a día de hoy, podría utilizar este museo a modo de inspiración.
 Ciertamente si Manovich escribiera de nuevo su libro a dia de hoy, podría utilizar este museo a modo de inspriración.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IImtLyrOeWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -79,12 +82,16 @@ Nos hemos puesto las gafas de Manovich, y apreciamos para cada uno de los ejempl
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-* IT-Swarm (On-line) https://www.it-swarm-es.com/es/html/cambiar-el-tamano-de-la-imagen-en-la-wiki-de-github-usando-markdown/1046991320/
-* VELÁZQUEZ TECH MUSEUM EN MADRID, UNA EXPERIENCIA INMERSIVA, YouTube (On-line) https://www.youtube.com/watch?v=IImtLyrOeWs
+### Referencias y Bibliografía
+
+* ADELL, Ferran. **Remediación, multimedia e hibridación de los medios. Fundamentos y evolución de la multimedia**. UOC [en línea]. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
+* **IT-Swarm** (On-line) https://www.it-swarm-es.com/es/html/cambiar-el-tamano-de-la-imagen-en-la-wiki-de-github-usando-markdown/1046991320/
+* MANOVICH, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 * VELÁZQUEZ TECH MUSEUM, https://www.velazqueztech.com/?gclid=CjwKCAiAksyNBhAPEiwAlDBeLPcpXo4KyImOVdRy-QVRaVzAa9fwDfhPsmjXV7W1IO0gG8_aVzgo4xoCL8UQAvD_BwE
+* VELÁZQUEZ TECH MUSEUM EN MADRID, UNA EXPERIENCIA INMERSIVA, YouTube (On-line) https://www.youtube.com/watch?v=IImtLyrOeWs
+
 ----
 
-Imágenes: 
-https://www.carrefour.es/juguetes
-https://www.esmadrid.com/informacion-turistica/velazquez-tech-museum 
+**Imágenes**: 
+[https://www.carrefour.es/juguetes](https://www.carrefour.es/juguetes)
+[https://www.esmadrid.com/informacion-turistica/velazquez-tech-museum](https://www.esmadrid.com/informacion-turistica/velazquez-tech-museum) 
