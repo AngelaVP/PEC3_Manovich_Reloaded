@@ -82,8 +82,6 @@ Nos hemos puesto las gafas de Manovich, y apreciamos para cada uno de los ejempl
 
 ### Referencias y Bibliografía
 
-### Referencias y Bibliografía
-
 * ADELL, Ferran. **Remediación, multimedia e hibridación de los medios. Fundamentos y evolución de la multimedia**. UOC [en línea]. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
 * **IT-Swarm** (On-line) https://www.it-swarm-es.com/es/html/cambiar-el-tamano-de-la-imagen-en-la-wiki-de-github-usando-markdown/1046991320/
 * MANOVICH, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
@@ -94,4 +92,5 @@ Nos hemos puesto las gafas de Manovich, y apreciamos para cada uno de los ejempl
 
 **Imágenes**: 
 [https://www.carrefour.es/juguetes](https://www.carrefour.es/juguetes)
+
 [https://www.esmadrid.com/informacion-turistica/velazquez-tech-museum](https://www.esmadrid.com/informacion-turistica/velazquez-tech-museum) 
