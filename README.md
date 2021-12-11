@@ -56,7 +56,7 @@ En resumen, es el catálogo de jueguetes de carrefour engloba la esencia de la h
 [Museo Velázquez Tech](https://www.velazqueztech.com/)
 
 El museo Velázquez Tech ha sido seleccionado por ser un claro e impactante ejemplo de hibridación. Se puede observar cómo se han unificado el arte clásico del famoso pintor con elementos visuales interactivos y música.
-Se ha utilizando como reclamo principal una versión actualizada de sus famosas Meninas, pero proyectadas con vídeo mapping y acompañadas de música barroca y ritmos contemporáneos. Permite acceder al lienzo de las Meninas en 4 dimensiones y en salas con hologramas para estudiar las distintas reinterpretaciones de la obra de Velázquez, así como disfrutar de instalaciones con una selección de las Meninas más representativas de la exhibición urbana MENINAS MADRID GALLERY.
+Se ha utilizando como figura principal una versión actualizada de sus famosas Meninas, pero proyectadas con vídeo mapping y acompañadas de música barroca y ritmos contemporáneos. Permite acceder al lienzo de las Meninas en 4 dimensiones y en salas con hologramas para estudiar las distintas reinterpretaciones de la obra de Velázquez, así como disfrutar de instalaciones con una selección de las Meninas más representativas de la exhibición urbana MENINAS MADRID GALLERY.
 
 Aunque se ha seleccionado el museo VelazquezTech como un caso de hibridación, en realidad se podría considerar cada una de las salas expuestas casos de hibridación particulares.
 
